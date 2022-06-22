@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![messalih's 42 stats](https://badge.mediaplus.ma/kettlebells/messalih)](https://github.com/oakoudad/badge42)
 
